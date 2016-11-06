@@ -1,6 +1,6 @@
 I.)		Included files:
 	
-		1. README 			-	this file
+		1. README 		-	this file
 		2. main_writer.py 	- 	script that will generate main.lp
 		3. mainExample.lp 	- 	example of a successfully generated main.lp (can be renamed to main.lp if so desired)
 		4. input.txt 		-	sample classes used to generate exampleMain.lp
